@@ -1,0 +1,17 @@
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\bin\Debug\netcoreapp2.1\CalculationModel.Test2.deps.json
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\bin\Debug\netcoreapp2.1\CalculationModel.Test2.runtimeconfig.json
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\bin\Debug\netcoreapp2.1\CalculationModel.Test2.runtimeconfig.dev.json
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\bin\Debug\netcoreapp2.1\CalculationModel.Test2.dll
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\bin\Debug\netcoreapp2.1\CalculationModel.Test2.pdb
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\bin\Debug\netcoreapp2.1\CompareCostsProject.dll
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\bin\Debug\netcoreapp2.1\CompareCostsProject.pdb
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\obj\Debug\netcoreapp2.1\CalculationModel.Test2.csprojAssemblyReference.cache
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\obj\Debug\netcoreapp2.1\CalculationModel.Test2.csproj.CoreCompileInputs.cache
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\obj\Debug\netcoreapp2.1\CalculationModel.Test2.AssemblyInfoInputs.cache
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\obj\Debug\netcoreapp2.1\CalculationModel.Test2.AssemblyInfo.cs
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\obj\Debug\netcoreapp2.1\CalculationModel.Test2.csproj.CopyComplete
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\obj\Debug\netcoreapp2.1\CalculationModel.Test2.dll
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CalculationModel.Test2\obj\Debug\netcoreapp2.1\CalculationModel.Test2.pdb

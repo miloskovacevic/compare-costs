@@ -1,0 +1,11 @@
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CompareCostsProject\bin\Debug\netcoreapp2.1\CompareCostsProject.deps.json
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CompareCostsProject\bin\Debug\netcoreapp2.1\CompareCostsProject.runtimeconfig.json
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CompareCostsProject\bin\Debug\netcoreapp2.1\CompareCostsProject.runtimeconfig.dev.json
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CompareCostsProject\bin\Debug\netcoreapp2.1\CompareCostsProject.dll
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CompareCostsProject\bin\Debug\netcoreapp2.1\CompareCostsProject.pdb
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CompareCostsProject\obj\Debug\netcoreapp2.1\CompareCostsProject.csprojAssemblyReference.cache
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CompareCostsProject\obj\Debug\netcoreapp2.1\CompareCostsProject.csproj.CoreCompileInputs.cache
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CompareCostsProject\obj\Debug\netcoreapp2.1\CompareCostsProject.AssemblyInfoInputs.cache
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CompareCostsProject\obj\Debug\netcoreapp2.1\CompareCostsProject.AssemblyInfo.cs
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CompareCostsProject\obj\Debug\netcoreapp2.1\CompareCostsProject.dll
+C:\Users\kovacevicm\Documents\Visual Studio 2017\Projects\CompareCostsProject\CompareCostsProject\obj\Debug\netcoreapp2.1\CompareCostsProject.pdb
